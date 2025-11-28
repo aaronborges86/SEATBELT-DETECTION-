@@ -73,3 +73,4 @@ Seatbelt Detection/
 ## License
 
 [Choose a license, e.g., MIT, Apache 2.0, or leave blank if private]
+<img width="1275" height="715" alt="Screenshot 2025-11-29 004440" src="https://github.com/user-attachments/assets/a6417ff1-5b92-4632-830f-d3e01e4ef9eb" />
