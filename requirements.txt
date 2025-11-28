@@ -1,0 +1,35 @@
+# YOLOv11 and PyTorch
+ultralytics==8.3.10
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Image and video processing
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0.84
+Pillow==10.3.0
+numpy==1.26.4
+
+# Data handling and visualization
+pandas==2.2.2
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Roboflow integration and dependencies
+roboflow==1.1.47
+requests==2.32.3
+idna==3.7
+certifi>=2023.7.22
+urllib3>=2.0.0
+chardet>=5.2.0
+
+# Utility packages
+tqdm==4.66.4
+pyyaml==6.0.2
+
+# Optional (for notebooks and experiments)
+jupyter
+tensorflow
+opencv-python
+ultralytics
+keras
+numpy

@@ -1,0 +1,13 @@
+# Dataset
+seatbelt/
+
+# Output
+output/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
